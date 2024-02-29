@@ -1,6 +1,6 @@
 `chmod +x g.sh`
 
-`./g.sh <port>`
+`./script.sh <port>`
 
 user 2 join:
 ```
