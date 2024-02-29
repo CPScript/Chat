@@ -8,5 +8,3 @@ nc <user1_ip> <port> | openssl enc -aes-256-cbc -pass pass:<user1_passphrase> -d
     echo "User1: $line"
 done
 ```
-
-> This probably doesnt work :(
